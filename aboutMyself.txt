@@ -1,0 +1,8 @@
+Title: Ms.
+Full Name: Ayesha Mujeeb
+USN: 1WT24CS006
+Semester: Third
+Section: A
+Branch: Computer Science Engineering
+Year of Admission: 2024
+College Name: GITW
